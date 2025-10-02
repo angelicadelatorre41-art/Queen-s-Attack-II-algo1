@@ -1,1 +1,1 @@
-# Queen-s-Attack-II-algo1
+# Queen-s-Attack-II-algo1 This code calculates the maximum number of moves the queen can make in all 8 directions and reduces them if an obstacle is encountered. It uses a HashSet for fast obstacle lookup and returns the sum of all possible moves.
